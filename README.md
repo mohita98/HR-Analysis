@@ -1,4 +1,4 @@
-![Screenshot 2024-04-22 214423](https://github.com/mohita98/HR-Analysis/assets/77202377/1be07913-4063-4db7-bfe8-e4597d035571)# HR-Analysis
+# HR-Analysis
 
 ## Overview:
 📊 This project delves into HR Analysis using data analytics to optimize employee retention strategies and organizational effectiveness.
