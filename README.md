@@ -1,4 +1,4 @@
-# HR-Analysis
+![Screenshot 2024-04-22 214423](https://github.com/mohita98/HR-Analysis/assets/77202377/1be07913-4063-4db7-bfe8-e4597d035571)# HR-Analysis
 
 ## Overview:
 📊 This project delves into HR Analysis using data analytics to optimize employee retention strategies and organizational effectiveness.
@@ -33,7 +33,11 @@
 
 📸 Dive into interactive visualizations and detailed analysis for a deeper understanding of employee turnover dynamics.
 
-![Screenshot 2024-04-22 214423](https://github.com/mohita98/HR-Analytics-/assets/77202377/1dbe2c9d-2370-44b8-a5ef-85631ee22edc)
-![Screenshot 2024-04-22 214439](https://github.com/mohita98/HR-Analytics-/assets/77202377/2c59ffc1-d52b-4df0-b5a7-c7b53763bcff)
-![Screenshot 2024-04-22 214517](https://github.com/mohita98/HR-Analytics-/assets/77202377/ea4ada4b-5036-4189-956d-516eeede98d6)
-![Screenshot 2024-04-22 214528](https://github.com/mohita98/HR-Analytics-/assets/77202377/18c37e5c-be75-4dd3-9fe0-775b45528a4b)
+![Screenshot 2024-04-22 214423](https://github.com/mohita98/HR-Analysis/assets/77202377/6de4c6ce-6c91-4b84-b16d-5d84a68e7b98)
+![Screenshot 2024-04-22 214439](https://github.com/mohita98/HR-Analysis/assets/77202377/e3c22a03-abdf-4c1b-bb32-f9e370348c13)
+![Screenshot 2024-04-22 214517](https://github.com/mohita98/HR-Analysis/assets/77202377/c2a5a2f6-eaaa-4bed-b864-366b6d1e4705)
+![Screenshot 2024-04-22 214528](https://github.com/mohita98/HR-Analysis/assets/77202377/086fba1d-07da-459a-9f05-a4b76233d841)
+
+
+
+
